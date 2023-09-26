@@ -1,0 +1,156 @@
+{
+    "printstr": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "strlen": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "atoi": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "alphamirror": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "displayz": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "nrune": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "inter": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "union": [
+        [
+            "os.Args",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displaya": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "firstrune": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "lastrune": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "switchcase": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "firstword": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "lastword": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "strrev": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "swap": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "swapbits": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "hello": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "rot14": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displayfirstparam": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "repeatalpha": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "searchreplace": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "displaylastparam": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "rot13": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "reversebits": [
+        [
+            "os.Args",
+            "fmt.*",
+            "--allow-builtin"
+        ]
+    ]
+}

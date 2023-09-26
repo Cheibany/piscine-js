@@ -1,0 +1,195 @@
+{
+    "gcd": [
+        [
+            "fmt.*",
+            "os.Args",
+            "strconv.Atoi",
+            "--allow-builtin"
+        ]
+    ],
+    "cleanstr": [
+        [
+            "os.*",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "reverserange": [
+        [
+            "strconv.Atoi",
+            "os.Args",
+            "fmt.*",
+            "--allow-builtin"
+        ]
+    ],
+    "doop": [
+        [
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "atoi": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "printhex": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "strconv.*",
+            "--allow-builtin"
+        ]
+    ],
+    "range": [
+        [
+            "strconv.Atoi",
+            "os.Args",
+            "fmt.*",
+            "--allow-builtin"
+        ]
+    ],
+    "wdmatch": [
+        [
+            "os.Args",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "searchreplace": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "compare": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "paramcount": [
+        [
+            "os.Args",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "expandstr": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "reversestrcap": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "capitalize": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "atoibase": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "max": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "printbits": [
+        [
+            "strconv.Atoi",
+            "os.Args",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "tabmult": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "strconv.Atoi",
+            "--allow-builtin"
+        ]
+    ],
+    "fprime": [
+        [
+            "strconv.Atoi",
+            "os.Args",
+            "fmt.*",
+            "--allow-builtin"
+        ]
+    ],
+    "displayalpham": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displayalrevm": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "ispowerof2": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "strconv.Atoi",
+            "os.Args",
+            "--allow-builtin"
+        ]
+    ],
+    "addprimesum": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "os.*",
+            "--allow-builtin"
+        ]
+    ],
+    "hiddenp": [
+        [
+            "os.Args",
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printdigits": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "rot14": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "reversebits": [
+        [
+            "os.Args",
+            "fmt.*",
+            "--allow-builtin"
+        ]
+    ],
+    "foreach": [
+        [
+            "--allow-builtin"
+        ]
+    ],
+    "itoa": [
+        [
+            "--allow-builtin"
+        ]
+    ]
+}

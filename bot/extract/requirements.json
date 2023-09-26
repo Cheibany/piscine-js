@@ -1,0 +1,80 @@
+{
+    "hello": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displayalpham": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displayalrevm": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displaya": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "onlya": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printalphabet": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "countdown": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printcomb": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printrevcomb": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "displayz": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "onlyz": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printdigits": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ],
+    "printreversealphabet": [
+        [
+            "github.com/01-edu/z01.PrintRune",
+            "--allow-builtin"
+        ]
+    ]
+}

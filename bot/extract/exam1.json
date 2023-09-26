@@ -1,0 +1,526 @@
+{
+    "id": 100052,
+    "name": "Exam 01",
+    "type": "exam",
+    "attrs": {
+        "campus": "dakar",
+        "eventDuration": 240,
+        "expectedXp": 137200,
+        "maxGroup": 7,
+        "registrationDuration": 2160,
+        "difficulty": 56,
+        "duration": 1,
+        "level": 14,
+        "parentType": "piscine",
+        "rootPath": "/dakar/piscine-go",
+        "startAfter": 5760,
+        "startDay": 6,
+        "week": 1,
+        "xpIndex": 24,
+        "eventStartDelay": 60
+    },
+    "children": {
+        "displaya": {
+            "id": 100055,
+            "name": "displaya",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/displaya/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 4900,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "displaya/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 1
+            },
+            "key": "displaya",
+            "path": "/dakar/piscine-go/exam-01/displaya",
+            "index": 0
+        },
+        "displayz": {
+            "id": 100054,
+            "name": "displayz",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/displayz/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 4900,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "displayz/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 1
+            },
+            "key": "displayz",
+            "path": "/dakar/piscine-go/exam-01/displayz",
+            "index": 1
+        },
+        "onlya": {
+            "id": 100056,
+            "name": "onlya",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/onlya/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 4900,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "onlya/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 1
+            },
+            "key": "onlya",
+            "path": "/dakar/piscine-go/exam-01/onlya",
+            "index": 2
+        },
+        "onlyz": {
+            "id": 100057,
+            "name": "onlyz",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/onlyz/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 4900,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "onlyz/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 1
+            },
+            "key": "onlyz",
+            "path": "/dakar/piscine-go/exam-01/onlyz",
+            "index": 3
+        },
+        "printdigits": {
+            "id": 100062,
+            "name": "printdigits",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/printdigits/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 9800,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "printdigits/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 2,
+                "baseSkills": {}
+            },
+            "key": "printdigits",
+            "path": "/dakar/piscine-go/exam-01/printdigits",
+            "index": 4
+        },
+        "printalphabet": {
+            "id": 100059,
+            "name": "printalphabet",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/printalphabet/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 9800,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "printalphabet/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune#2",
+                    "--allow-builtin"
+                ],
+                "group": 2
+            },
+            "key": "printalphabet",
+            "path": "/dakar/piscine-go/exam-01/printalphabet",
+            "index": 5
+        },
+        "printreversealphabet": {
+            "id": 100058,
+            "name": "printreversealphabet",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/printreversealphabet/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 9800,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "printreversealphabet/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 2
+            },
+            "key": "printreversealphabet",
+            "path": "/dakar/piscine-go/exam-01/printreversealphabet",
+            "index": 6
+        },
+        "countdown": {
+            "id": 100065,
+            "name": "countdown",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/countdown/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 14700,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "countdown/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 3,
+                "baseSkills": {}
+            },
+            "key": "countdown",
+            "path": "/dakar/piscine-go/exam-01/countdown",
+            "index": 7
+        },
+        "hello": {
+            "id": 100061,
+            "name": "hello",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/hello/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 14700,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "hello/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 3,
+                "baseSkills": {}
+            },
+            "key": "hello",
+            "path": "/dakar/piscine-go/exam-01/hello",
+            "index": 8
+        },
+        "displayalpham": {
+            "id": 100063,
+            "name": "displayalpham",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/displayalpham/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 19600,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 8,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "displayalpham/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 4,
+                "baseSkills": {}
+            },
+            "key": "displayalpham",
+            "path": "/dakar/piscine-go/exam-01/displayalpham",
+            "index": 9
+        },
+        "displayalrevm": {
+            "id": 100064,
+            "name": "displayalrevm",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/displayalrevm/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 24500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 10,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "displayalrevm/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 5,
+                "baseSkills": {}
+            },
+            "key": "displayalrevm",
+            "path": "/dakar/piscine-go/exam-01/displayalrevm",
+            "index": 10
+        },
+        "printcomb": {
+            "id": 100053,
+            "name": "printcomb",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/printcomb/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 29400,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 12,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "printcomb.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 6
+            },
+            "key": "printcomb",
+            "path": "/dakar/piscine-go/exam-01/printcomb",
+            "index": 11
+        },
+        "printrevcomb": {
+            "id": 100060,
+            "name": "printrevcomb",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/printrevcomb/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-go",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 34300,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 14,
+                "duration": 0,
+                "level": 14,
+                "parentType": "exam",
+                "rootName": "piscine-go",
+                "rootPath": "/dakar/piscine-go",
+                "xpIndex": 24,
+                "language": "go",
+                "expectedFiles": [
+                    "printrevcomb/main.go"
+                ],
+                "allowedFunctions": [
+                    "github.com/01-edu/z01.PrintRune",
+                    "--allow-builtin"
+                ],
+                "group": 7
+            },
+            "key": "printrevcomb",
+            "path": "/dakar/piscine-go/exam-01/printrevcomb",
+            "index": 12
+        }
+    },
+    "key": "exam-01",
+    "path": "/dakar/piscine-go/exam-01",
+    "index": 4
+}
